@@ -1,12 +1,12 @@
 # 📊 Excel Customer Data Analysis Dashboard
 
-## 📊 Dashboard Preview
-
-![Excel Customer Data Analysis Dashboard](dashboard.png)
-
 An interactive **Customer Data Analysis Dashboard built with Microsoft Excel**, designed to clean, analyze, and visualize customer data through Pivot Tables, Pivot Charts, and interactive Slicers.
 
 The project demonstrates practical skills in **data cleaning, data transformation, pivot table analysis, data visualization, and dashboard development using Excel**.
+
+## 📊 Dashboard Preview
+
+![Excel Customer Data Analysis Dashboard](dashboard.png)
 
 ---
 
